@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(153, 248, 232);
+}
+h1{
+  color: rgb(231, 134, 7);
+}
+h2{
+  color: rgb(248, 156, 34);
+}
+.par_color{
+  color: brown;
+}
+ul{
+  color: rgb(0, 0, 255);
+}
+ol{
+  color: rgb(0, 0, 255);
+}
+img{
+  width: 500px;
+}
